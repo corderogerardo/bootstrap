@@ -1,0 +1,23 @@
+{
+  "name": "uibootstrapcousera",
+  "description": "cousera uibootstrap course",
+  "main": "index.js",
+  "authors": [
+    "Gerardo Cordero"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bootstrap",
+    "bower",
+    "less",
+    "sass",
+    "jquery"
+  ],
+  "moduleType": [],
+  "homepage": "index.html",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}

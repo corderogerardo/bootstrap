@@ -1,0 +1,29 @@
+{
+  "name": "uibootstrap",
+  "version": "1.0.0",
+  "description": "uibootstrap cousera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/corderogerardo/uibootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bower",
+    "less",
+    "sass",
+    "jquery"
+  ],
+  "author": "Gerardo Cordero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/corderogerardo/uibootstrap/issues"
+  },
+  "homepage": "https://gitlab.com/corderogerardo/uibootstrap#README",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
